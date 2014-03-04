@@ -1,0 +1,10 @@
+/*
+Theme Name: CDS News
+Author: CDS
+Author URI: http://wordpress.org/
+*/
+
+#PriNavList{
+  text-transform: uppercase;
+  font-weight: bold;
+}
